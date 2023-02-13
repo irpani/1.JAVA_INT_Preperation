@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>1.JAVA_INT_Preperation</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Abstractclass/Abstrasct Class.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Abstrasct Class.png</location>
+		</link>
+		<link>
+			<name>src/Abstractclass/webDriver.PNG</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/webDriver.PNG</location>
+		</link>
+		<link>
+			<name>src/AccessModifier2/Access modifiers 2.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Access modifiers 2.png</location>
+		</link>
+		<link>
+			<name>src/Collections/0.Collection in 1 Diagram.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Collection in 1 Diagram.png</location>
+		</link>
+		<link>
+			<name>src/Collections/1.sdsds.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/sdsds.png</location>
+		</link>
+		<link>
+			<name>src/Collections/2.fss.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/fss.png</location>
+		</link>
+		<link>
+			<name>src/Collections/3.ar.get method.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/ar.get method.png</location>
+		</link>
+		<link>
+			<name>src/Collections/4.al.remove.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/al.remove.png</location>
+		</link>
+		<link>
+			<name>src/Collections/for vs foreach loop.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Selenium/for vs foreach loop.png</location>
+		</link>
+		<link>
+			<name>src/Collections/int Index.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/int Index.png</location>
+		</link>
+		<link>
+			<name>src/DataTypes/255 Parameters I an pass.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/255 Parameters I an pass.png</location>
+		</link>
+		<link>
+			<name>src/DataTypes/Do while Loop.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Do while Loop.png</location>
+		</link>
+		<link>
+			<name>src/DataTypes/ECLIPSE workSpace2.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/ECLIPSE workSpace.png</location>
+		</link>
+		<link>
+			<name>src/DataTypes/JavaPath Setup1.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/JavaPath Setup.png</location>
+		</link>
+		<link>
+			<name>src/DataTypes/dataTypes3.PNG</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/dataTypes.PNG</location>
+		</link>
+		<link>
+			<name>src/DataTypes/for lop.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/for lop.png</location>
+		</link>
+		<link>
+			<name>src/Encapsulation/Laptop ATM machine.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Laptop ATM machine.png</location>
+		</link>
+		<link>
+			<name>src/Encapsulation/Method Chaining.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Method Chaining.png</location>
+		</link>
+		<link>
+			<name>src/Encapsulation/Pom.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Pom.png</location>
+		</link>
+		<link>
+			<name>src/ExceptionHandling/ErrorVsExceptioin3.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/ErrorVsExceptioin.png</location>
+		</link>
+		<link>
+			<name>src/ExceptionHandling/Exception_error1.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Exception_error.png</location>
+		</link>
+		<link>
+			<name>src/ExceptionHandling/Exceptional Handling.jpg</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Exceptional Handling.jpg</location>
+		</link>
+		<link>
+			<name>src/ExceptionHandling/JVM_Not_Handled_Exception4.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/JVM_Not_Handled_Exception.png</location>
+		</link>
+		<link>
+			<name>src/ExceptionHandling/ObjectClass_NotAllowed2.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/ObjectClass_NotAllowed.png</location>
+		</link>
+		<link>
+			<name>src/ExceptionHandling/handl it producer level or Cos level5.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/handl it producer level or Cos level.png</location>
+		</link>
+		<link>
+			<name>src/FinalKeyword/gc Mechanism.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/gc Mechanism.png</location>
+		</link>
+		<link>
+			<name>src/Inheritance/Diamnd Preoblem.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Diamnd Preoblem.png</location>
+		</link>
+		<link>
+			<name>src/Inheritance/Inheritance.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Inheritance.png</location>
+		</link>
+		<link>
+			<name>src/Interface/Diamond Problem.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Diamond Problem.png</location>
+		</link>
+		<link>
+			<name>src/Interface/Interface1.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Interface.png</location>
+		</link>
+		<link>
+			<name>src/Interface/Not Allowed6.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Not Allowed.png</location>
+		</link>
+		<link>
+			<name>src/Interface/UN Parent to WHO5.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/UN Parent to WHO.png</location>
+		</link>
+		<link>
+			<name>src/Interface/UNHG4.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/UNHG.png</location>
+		</link>
+		<link>
+			<name>src/Interface/WHO3.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/WHO.png</location>
+		</link>
+		<link>
+			<name>src/Interface/topcasting2.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/topcasting.png</location>
+		</link>
+		<link>
+			<name>src/Memory_Management/Heap vs stack.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Heap vs stack.png</location>
+		</link>
+		<link>
+			<name>src/Oops_Class_Var_And_Methods/0.Call_By_value vsCall_By_ref.gif</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/value vs ref.gif</location>
+		</link>
+		<link>
+			<name>src/Oops_Class_Var_And_Methods/1.Cntrl plus o.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Cntrl plus o.png</location>
+		</link>
+		<link>
+			<name>src/Oops_Class_Var_And_Methods/2.Cntrl shift plus R.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Cntrl shift plus R.png</location>
+		</link>
+		<link>
+			<name>src/StringManipulaitons/0.StringCocpool.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/StringCocpool.png</location>
+		</link>
+		<link>
+			<name>src/StringManipulaitons/1.New Reference added.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/same values.png</location>
+		</link>
+		<link>
+			<name>src/StringManipulaitons/2. created in Heal already there in scp so not created.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/1 created in Heal already there in scp so not created.png</location>
+		</link>
+		<link>
+			<name>src/StringManipulaitons/3. object 1 have no reference.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/2 object 1 have no reference.png</location>
+		</link>
+		<link>
+			<name>src/StringManipulaitons/4.scp no duplicates .png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/scp no duplicates .png</location>
+		</link>
+		<link>
+			<name>src/Wrappers/NonPrimitive to Primitive Type3.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/NonPrimitive to Primitive Type.png</location>
+		</link>
+		<link>
+			<name>src/Wrappers/y Coversion1 .png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/y Coversion .png</location>
+		</link>
+		<link>
+			<name>src/Wrappers/y toString method2.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/y toString method.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
