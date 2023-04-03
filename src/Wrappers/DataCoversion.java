@@ -23,7 +23,7 @@ public class DataCoversion {
 		// When ever we are reading from the web pages Specially In case of
 		// Automatontool
 
-		// CASE1: String to int Conversion =>Pure Numeric Conversion to Int
+		// CASE(1): String to int Conversion =>Pure Numeric Conversion to Int
 		// ------------------------
 		int i = Integer.parseInt(x);// 100
 		System.out.println(i + 20);// 120
@@ -42,7 +42,7 @@ public class DataCoversion {
 		double d = Double.parseDouble(p);
 		System.out.println(d + 20);// 32.33
 
-		// CASE2: int to String:
+		// CASE(2): int to String:
 		// --------------------
 		int total = 100;
 		String str = String.valueOf(total);

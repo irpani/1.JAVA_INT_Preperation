@@ -5,7 +5,7 @@ package thisKeyword;
 // Encapsulation Coming in to Picture ...
 //Q: y Encapsulation?
 //A:Some times My requirement is to access the private members in to anotner class How will u do that ?
-//So Java Come with Soutition called Encapsulation 
+//So Java Come with Solution called Encapsulation 
 public class Company1 {
 
 	public String name;

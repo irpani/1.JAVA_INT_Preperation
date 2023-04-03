@@ -18,6 +18,7 @@ public class BMW2 extends Car1 {
 
 	}
 
+	// @Override Not Allowed because it's static mehod
 	public static void drive() {
 		System.out.println("BMW--- DRIVE");
 

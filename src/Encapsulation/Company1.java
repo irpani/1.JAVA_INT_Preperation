@@ -1,7 +1,15 @@
 package Encapsulation;
+
+//Abstraction:
+//Data abstraction is the process of hiding certain details and showing only essential information to the user. 
+//Abstraction can be achieved with either abstract classes or interfaces (which you will learn more about in the next chapter).
+
+//Note:
+//In java applications Encapsulation and abstraction both are coexisted 
+//and they will improve security in java applications…
 //_____Enapsulation_____
 
-// A:Private DataMembers we cann't access out side of the Class So for accessting private members
+// A:Private DataMembers we cann't access out side of the Class So for accessing private members
 // Encapsulation Coming in to Picture ...
 //Q: y Encapsulation?
 //A:Some times My requirement is to access the private members in to anotner class How will u do that ?

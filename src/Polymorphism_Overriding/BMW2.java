@@ -11,7 +11,7 @@ public class BMW2 extends Car1 {
 	// runtime Only decided => which method to call
 
 	// Method Overriding: 3 Rules this is also Called Poly+morphism
-	// Method Overriding always hppen between Parent & Child
+	// Method Overriding always happen between Parent & Child
 	// Method name Should be same name & Same no of parameters
 	// return type also same
 
@@ -19,13 +19,13 @@ public class BMW2 extends Car1 {
 	// Car class having strat(int a) BMW havig strat()
 	// A: No
 
-	// Q2How will u check this method satisfyig all overriding rules ?
-	// A: There is one Annotation there is no compulsory to write siple write
+	// Q2:How will u check this method satisfyig all overriding rules ?
+	// A: There is one Annotation there is no compulsory to write simple write
 	// @override
 	// This @override will not give any error then it will follow all rules
 	// See the Green Symbol here this is over_ridden method
 
-	// Q3Note:- Private final static ... not supported overidden
+	// Q3:Note:- Private final static ... not supported overidden
 	// Note: **Static methods are overloaded but cann't overrided
 	@Override
 	public void start() {

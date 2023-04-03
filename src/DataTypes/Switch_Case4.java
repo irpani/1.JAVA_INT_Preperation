@@ -6,6 +6,9 @@ public class Switch_Case4 {
 
 		// case (1) Switch case with String
 		// case (2) Int case with String
+
+		// case (1) Switch case with String:
+		// ----------------------------------
 		String browser = "xyz";
 
 		switch (browser) {
@@ -27,7 +30,9 @@ public class Switch_Case4 {
 			break;
 
 		}
-		// Case 2: Int type
+
+		// Case (2): Int type:
+		// -----------------
 		int age = 20;
 		switch (age) {
 		case 10:

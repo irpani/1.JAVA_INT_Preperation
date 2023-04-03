@@ -1,4 +1,8 @@
 package Abstractclass;
+//What is an Abstraction:
+
+//Data abstraction is the process of hiding certain details and showing only essential information to the user. 
+//Abstraction can be achieved with either abstract classes or interfaces (which you will learn more about in the next chapter).
 
 //_______Abstract Class:______
 //Abstarst Class Object Cann't Created but able to Create Constructor

@@ -2,7 +2,7 @@ package StringManipulaitons;
 
 //_____String Api Methods_____
 //String Internally Stored as Char[]
-//String Lenngth() is the  No  Of characters in Char[] -- L
+//String Length() is the  No  Of characters in Char[] -- L
 //Li _ Always Starts with -- 0
 //Hi _ Length Of the Array L-1
 public class StringManipulation3 {
@@ -41,7 +41,11 @@ public class StringManipulation3 {
 			System.out.println("pass");
 
 		}
-
+		// toUpperCase()
+		// toLowerCase()
+		// trim()
+		// replace()
+		// contains()
 		System.out.println(s.toUpperCase());// THIS IS MY JAVA CODE AND I AM SO HAPPY
 		System.out.println(s.toLowerCase());// this is my java code and i am so happy
 
@@ -63,10 +67,12 @@ public class StringManipulation3 {
 		} else {
 			System.out.println("fail");
 		}
+		// == equals()
+		// equalsIgnoreCase()
 
-		// Comparisios (1) .primitives == // (2).Strings .equals()
-		// InStrings == to check the reference Comparision
-		// equlas() to check the Values Cmparision
+		// Comparisions (1).primitives == // (2).Strings .equals()
+		// In Strings == to check the reference Comparision
+		// equlas() to check the Values Comparision
 		// ------------------------0----------------------
 		// _____part:(2)_____Memory Optimization
 		// Q:Which One is prefered String Literals or String Class?
@@ -104,6 +110,7 @@ public class StringManipulation3 {
 		// Part 3: ______Programming type______
 		// Always Remember when ever u splitting On LHS side u must write 1 Array
 		// Split ---- Ex1: On the basis Of _ underscore
+		// SubString()
 		String lang = "JAVA_PYTHON_RUBY_PHP";
 		String langArr[] = lang.split("_");
 		System.out.println(langArr[0]);

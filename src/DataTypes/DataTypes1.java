@@ -5,18 +5,21 @@ public class DataTypes1 {
 	public static void main(String[] args) {
 		// ______(1).DataTypes:_______
 		// (1).Primitive DataTypes
-		// A).Boolean
+		// (A).Boolean
 
-		// B).Numeric
+		// (B).Numeric
 		// char
+
 		// Integral
-		// Byte,Short,Integr,long
-		// float,double
+		// ------------
+		// Byte,___Short,____Integr,____long
+		// float,____double
 
 		// (2).Non Primitive DataTypes
 		// Stings
 		// Arrays
-		// Classes ,Interfaces ......
+		// Classes ,and
+		// Interfaces ......
 
 		// ______(2).DataTypes Size Range & Default Values _______
 
@@ -26,6 +29,23 @@ public class DataTypes1 {
 
 		byte b = 077;
 		System.out.println(b);// 63
+
+		// Implicit Conversion
+
+		// Explicict Conversion
+
+		// ____Wrappers____ Mainly for Data Convesion
+
+		// Byte
+		// Short
+		// Integer
+		// Long
+
+		// Flaot
+		// Double
+
+		// Char
+		// Boolean
 
 	}
 

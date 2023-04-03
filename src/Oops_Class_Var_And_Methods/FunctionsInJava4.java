@@ -5,6 +5,7 @@ public class FunctionsInJava4 {
 	int a;
 	// Rule 1: We cann't create a function Inside a Function
 	// Rule 2: We can call a Function Inside another function ... Allowed
+	// Rule 3: We cann't call static from Non static methods ...
 
 	// There are 3 types Of Funciotns Majorly.
 	// Type (1): No Input No return Type
@@ -24,7 +25,8 @@ public class FunctionsInJava4 {
 		System.out.println("Print Method");
 	}
 
-	// Type (2): No Input but Some return Type
+	// Type (2): No Input but Some return Type like3 Examples [int ,String ,boolean]
+	// ___returns int___
 	public int getBalance() {
 		System.out.println("getBalance");
 		int fee = 10;
@@ -33,6 +35,7 @@ public class FunctionsInJava4 {
 		return total;
 	}
 
+	// ____returns String____
 	public String getTrainerName() {
 
 		System.out.println("Get Trainer Name");
@@ -40,6 +43,7 @@ public class FunctionsInJava4 {
 		return name;
 	}
 
+	// ____returns boolean____
 	public boolean isEmpActive() {
 
 		System.out.println("Employee Active");
@@ -71,14 +75,18 @@ public class FunctionsInJava4 {
 
 	}
 
-	// Inside Main method we never retirn return statement
+	// Inside Main method we never return =>'return' statement
 	public static void main(String[] args) {
 		FunctionsInJava4 obj = new FunctionsInJava4();
+		// Case:1:No Input No return type
 		obj.test();
 		obj.getprint();
 		// Don't use this Aapproch
+
+		// Case:2:No Input Some return type
 		System.out.println(obj.getBalance());
 		// Always use this Approch
+
 		int p = obj.getBalance();
 		System.out.println(p);
 		// Holding parameter preferable so that we can use it in future ...
@@ -92,6 +100,9 @@ public class FunctionsInJava4 {
 		// U can stored in Holding Parmeter
 		boolean b = obj.isEmpActive();
 		System.out.println(b);
+
+		// Case:3:Some Input some return type
+
 		// a,b are called input parameters
 		int c = obj.add(10, 20); // 10,20 are called method arguments
 		// you can also perform Action on this

@@ -26,7 +26,7 @@ public class TestAmazon {
 
 		user.login("car123@gmail.com", "car1234").search("Macbook").addCart("Macbook").logOut();
 
-		// (2).uber Booking Home work
+		// (2).uber Booking Home work /Assignment
 
 	}
 

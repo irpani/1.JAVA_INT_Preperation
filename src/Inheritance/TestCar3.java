@@ -11,11 +11,11 @@ public class TestCar3 {
 		// be -called
 		// Case 1:
 		// --------------------------
-		b.start(); // Over_ridden method //Inherited method
+		b.start(); // Over_ridden method
 		b.stop(); // Inherited method
 		b.refilling(); // Inherited method
 		b.autoparking(); // Ind Method Of BMW class
-		b.engine(); // Able to access Grandparent propertes via casr class
+		b.engine(); // Able to access Grandparent propertes via car class
 		BMW2.drive(); // Static method in BMW class called with Class name
 
 		// Note : drive() is a staic method in both parent & Child Class they Cann't
@@ -47,11 +47,11 @@ public class TestCar3 {
 
 		// ----------------------------
 		// Case 4:Downcasting Big box --- in to small box
-		// -------------------------- Every Car is not BMW
+		// ----------------------------- Every Car is not BMW
 		// BMW2 b2=new Car1(); //Not Allowed in JAVA
-		BMW2 b2 = (BMW2) new Car1(); // Comiple time not identified
+		BMW2 b2 = (BMW2) new Car1(); // Compile time not identified
 
-		// ---------- // Run time it wil throw Class Cast Exception
+		// ---------- // Run time it will throw Class Cast Exception
 		// Case 5:
 		// ------------
 		Vehicle4 v1 = new BMW2();

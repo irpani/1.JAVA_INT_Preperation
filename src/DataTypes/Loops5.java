@@ -9,8 +9,8 @@ public class Loops5 {
 		int j = 1;
 		while (j <= 10) {
 			System.out.println(j);
-			// i++;
-			// ++i;
+			// j++;
+			// ++j;
 			j = j + 1;
 		}
 
@@ -18,6 +18,7 @@ public class Loops5 {
 		 * int k = 1; while (true) { System.out.println(k); k++; if (k == 20) { break; }
 		 * } }
 		 */
+
 		// for Loop:
 		// ___Typical for loop___
 		// case1:
@@ -87,6 +88,8 @@ public class Loops5 {
 			}
 			System.out.println();
 		}
+
+		// ______for_each Loop_____
 
 	}
 }
