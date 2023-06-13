@@ -1,5 +1,6 @@
 package Inheritance;
 
+//Car is the Child Class Of Vehicle Class
 public class Car1 extends Vehicle4 {
 
 	public void start() {
