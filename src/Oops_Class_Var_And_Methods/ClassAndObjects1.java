@@ -12,7 +12,7 @@ public class ClassAndObjects1 {
 
 	public static void main(String[] args) {
 		// ___Local Varible____
-		int i = 10;
+		int i = 30;
 		System.out.println(i);
 
 		ClassAndObjects1 obj = new ClassAndObjects1();
