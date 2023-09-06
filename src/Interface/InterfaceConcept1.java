@@ -1,5 +1,11 @@
 package Interface;
-//What is Interface:
+//Q:______What is Interface_____
+
+//A:
+//___________Interface Types_____________
+//(1).Normal Interface : which having Multiple Abstarct methods
+//(2).Fuctional Interface which is havig only 1 Method
+//(3).Marked Interface which is having no method
 
 //Interface says that All methods are abstract in nature
 //Q:What do u mean by abstract?

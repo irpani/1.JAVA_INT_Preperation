@@ -11,8 +11,10 @@ public class Employee3 {
 	String name;
 	String city;
 	double salary;
-	boolean isprem;
+	boolean is_prem;
+}
 
+class Test {
 	public static void main(String[] args) {
 
 		// e1 ==> Obj reference name
@@ -38,7 +40,14 @@ public class Employee3 {
 		System.out.println("---------------------");
 		// ___Default Values Case___
 		Employee3 e3 = new Employee3();
-		System.out.println(e3.age + " " + e3.city + " " + e3.name + " " + e3.isprem);
+		System.out.println(e3.age + " " + e3.city + " " + e3.name + " " + e3.is_prem);
+
+		// For a single Class ... N no of Objects will be Created
+
+		System.out.println("---------------------");
+		// ___nth Object Case___
+		Employee3 en = new Employee3();
+		System.out.println(en.age + " " + en.city + " " + en.name + " " + en.is_prem);
 
 	}
 
