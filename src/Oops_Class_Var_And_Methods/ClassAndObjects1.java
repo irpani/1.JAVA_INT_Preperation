@@ -1,8 +1,8 @@
 package Oops_Class_Var_And_Methods;
 
 //Global Variable (Vs) Local Variable
-//To Access Global Varibles we  must create object for the Class, Scope Class Level
-//Local Variable Scope ---Method Level
+//To Access Global Varibles we  must create object of the Class ---- Scope at Class Level
+//Local Variable                                                 ---- Scope at Method Level
 
 //ShortCuts:
 //ctrl+o        ----  to see the VAR & METHODS

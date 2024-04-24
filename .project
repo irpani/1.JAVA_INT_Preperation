@@ -16,11 +16,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>OOPS Concepts.pdf</name>
-			<type>1</type>
-			<location>C:/Users/Hi/Desktop/Java imp/OOPS Concepts.pdf</location>
-		</link>
-		<link>
 			<name>Oops Priciples.png</name>
 			<type>1</type>
 			<location>C:/Users/Hi/Desktop/Naveen Java/Oops Priciples.png</location>
@@ -179,6 +174,11 @@
 			<name>src/Inheritance/Inheritance.png</name>
 			<type>1</type>
 			<location>C:/Users/Hi/Desktop/Naveen Java/Inheritance.png</location>
+		</link>
+		<link>
+			<name>src/Input_Output_Streams/Scanner Classs .png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Scanner Classs .png</location>
 		</link>
 		<link>
 			<name>src/Interface/Diamond Problem.png</name>

@@ -94,6 +94,7 @@ public class StaticArrays1 {
 
 		for (String str : lang) {
 			System.out.println(str);
+			System.out.println("Print All Strings");
 		}
 		System.out.println("----------------------");
 		// ____Object Array_____
