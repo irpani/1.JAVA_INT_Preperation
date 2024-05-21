@@ -10,7 +10,8 @@ package Abstractclass;
 //(2).Just Like Interface we cann't Create Object for Abstract Class also ...
 //(3).In Abstarst class both Abstarst methods & Concrete methods both are Allowed
 
-//I have taken 2 abstract methods 2 Concrete Methods 
+//I have taken 2 abstract methods 2 Concrete Methods for this Example
+
 public abstract class Page1 {
 	// 0-arg Constructor:
 	public Page1() {

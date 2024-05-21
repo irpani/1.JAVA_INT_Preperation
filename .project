@@ -16,11 +16,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>OOPS Concepts.pdf</name>
-			<type>1</type>
-			<location>C:/Users/Hi/Desktop/Java imp/OOPS Concepts.pdf</location>
-		</link>
-		<link>
 			<name>Oops Priciples.png</name>
 			<type>1</type>
 			<location>C:/Users/Hi/Desktop/Naveen Java/Oops Priciples.png</location>
@@ -126,6 +121,16 @@
 			<location>C:/Users/Hi/Desktop/Naveen Java/Pom.png</location>
 		</link>
 		<link>
+			<name>src/EnumBasics/Enum Basic_1.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Enum Basic_1.png</location>
+		</link>
+		<link>
+			<name>src/EnumBasics/Enum Basics_2.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Enum Basics_2.png</location>
+		</link>
+		<link>
 			<name>src/ExceptionHandling/ErrorVsExceptioin3.png</name>
 			<type>1</type>
 			<location>C:/Users/Hi/Desktop/Naveen Java/ErrorVsExceptioin.png</location>
@@ -171,6 +176,11 @@
 			<location>C:/Users/Hi/Desktop/Naveen Java/Inheritance.png</location>
 		</link>
 		<link>
+			<name>src/Input_Output_Streams/Scanner Classs .png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Scanner Classs .png</location>
+		</link>
+		<link>
 			<name>src/Interface/Diamond Problem.png</name>
 			<type>1</type>
 			<location>C:/Users/Hi/Desktop/Naveen Java/Diamond Problem.png</location>
@@ -206,9 +216,29 @@
 			<location>C:/Users/Hi/Desktop/Naveen Java/topcasting.png</location>
 		</link>
 		<link>
-			<name>src/Memory_Management/Heap vs stack.png</name>
+			<name>src/Java_Fundamentals/ByteCode Not Specific to Any platform.png</name>
 			<type>1</type>
-			<location>C:/Users/Hi/Desktop/Naveen Java/Heap vs stack.png</location>
+			<location>C:/Users/Hi/Desktop/Naveen Java/ByteCode Not Specific to Any platform.png</location>
+		</link>
+		<link>
+			<name>src/Java_Fundamentals/Interpreter helps to Convert Byte Code to machine Code.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Interpreter helps to Convert Byte Code to machine Code.png</location>
+		</link>
+		<link>
+			<name>src/Java_Fundamentals/JDK Contains what.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/JDK Contains what.png</location>
+		</link>
+		<link>
+			<name>src/Java_Fundamentals/Platform Independent.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Platform Independent.png</location>
+		</link>
+		<link>
+			<name>src/Java_Fundamentals/Write Once Run Anywhere.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Write Once Run Anywhere.png</location>
 		</link>
 		<link>
 			<name>src/Oops_Class_Var_And_Methods/0.Call_By_value vsCall_By_ref.gif</name>
@@ -224,6 +254,11 @@
 			<name>src/Oops_Class_Var_And_Methods/2.Cntrl shift plus R.png</name>
 			<type>1</type>
 			<location>C:/Users/Hi/Desktop/Naveen Java/Cntrl shift plus R.png</location>
+		</link>
+		<link>
+			<name>src/Oops_Class_Var_And_Methods/Recursion.png</name>
+			<type>1</type>
+			<location>C:/Users/Hi/Desktop/Naveen Java/Recursion.png</location>
 		</link>
 		<link>
 			<name>src/StringManipulaitons/0.StringCocpool.png</name>

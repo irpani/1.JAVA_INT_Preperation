@@ -12,7 +12,7 @@ public class FunctionsInJava4 {
 	// Type (2): Some Input No return type
 	// Type (3):Some Input Some return type
 
-	// Type (1): No Input No return Type
+	// Type (1): No Input No return Type // just to print the message
 	public void test() {
 
 		System.out.println("Test Method----");
@@ -25,7 +25,8 @@ public class FunctionsInJava4 {
 		System.out.println("Print Method");
 	}
 
-	// Type (2): No Input but Some return Type like3 Examples [int ,String ,boolean]
+	// Type (2): No Input but Some return Type like3 Examples [int -total ,String -
+	// name ,boolean- true/false]
 	// ___returns int___
 	public int getBalance() {
 		System.out.println("getBalance");
@@ -70,6 +71,7 @@ public class FunctionsInJava4 {
 			return 200;
 		} else {
 			System.out.println("Course Not matched...");
+
 		}
 		return -1; // *** most imp here
 
