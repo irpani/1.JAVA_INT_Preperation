@@ -6,6 +6,7 @@ public class Car1 {
 	// Access Modifiers => default ,public,private,protected
 	String name;
 	public String color;
+	public String variant;
 	protected int price;
 	private int licenceNumber;
 
