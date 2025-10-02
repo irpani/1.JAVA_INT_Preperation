@@ -6,7 +6,7 @@ import java.util.Date;
 
 public class SystemDateTime {
 
-	//Main Method
+	//Main Method ,It will helps us start execution
 	public static void main(String[] args) {
 	
 		/* Create object of SimpleDateFormat class and decide the format.
