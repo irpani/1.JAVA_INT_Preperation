@@ -1,11 +1,11 @@
 package Encapsulation;
 
 //Abstraction:
-//Data abstraction is the process of hiding certain details and showing only essential information to the user. 
-//Abstraction can be achieved with either abstract classes or interfaces (which you will learn more about in the next chapter).
+//Data abstraction: is the process of hiding certain details and showing only essential information to the user. 
+//Abstraction     : can be achieved with either abstract classes or interfaces (which you will learn more about in the next chapter).
 
 //Note:
-//In java applications Encapsulation and abstraction both are coexisted 
+//In java applications Encapsulation and abstraction both are co-existed 
 //and they will improve security in java applications…
 //_____Enapsulation_____
 
@@ -17,8 +17,8 @@ package Encapsulation;
 public class Company1 {
 
 	public String name;
-	private int SharePrice = 100;
 	public String hq;
+	private int SharePrice = 100;
 
 	// ___Setter___
 	// We can't write like this ... because trw we have 100 of variables we Cann't

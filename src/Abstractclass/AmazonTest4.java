@@ -1,7 +1,7 @@
 package Abstractclass;
 
 public class AmazonTest4 {
-
+     //main Class Added
 	public static void main(String[] args) {
 		// Case(1):
 		LoginPage2 lp = new LoginPage2();
